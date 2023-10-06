@@ -10,7 +10,7 @@ var
     Write('Introduceți valoarea catetei b: ');
     read(b);
     Write('Valoarea ipotenuzei este de ', Sqrt(a*a+b*b)); {pentru a izola 2 valori pe care vrem să le scriem în terminal punem ',' iar apostrofă ' ' '
-    se pune doar pentru siruri de caractere(text) care nu reprezintă vreo syntaxă}
+    se pune doar pentru siruri de caractere(text) care nu reprezintă vreo sintaxă}
     //pascal ține cont de ordinea operațiilor si noi nu trebuie să ne facem grizi în mare parte dar dacă vreți să le aranzați faceți ca la matematică adică cu paranteze rotunde.
     {Sqrt() este funcția pentru radical. În pascal si c++ o funcție este o bucată de cod care poate fi rulată la comandă aproape oriunde si este de forma f(v1, v2, v3, .. vn)
     unde v1, v2, .. vn sunt variabilele. Orice funcție returnează o variabilă prestabilită cum ar fi sqrt() care retunează un nr real sau 
